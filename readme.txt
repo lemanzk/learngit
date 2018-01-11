@@ -3,4 +3,4 @@ Git is free software distributed under the GPL.
 One Change
 Two Change
 Three Change
-Git tracks changes.
+Git tracks changes of files.
